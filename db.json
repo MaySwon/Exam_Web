@@ -1,0 +1,92 @@
+{
+  "students": [
+    {
+      "name": "sв",
+      "surname": "dsфыв",
+      "patronymic": "asasd",
+      "telephone": "89001193024",
+      "email": "tselunov.p@gmail.com",
+      "dateOfBirth": "2021-10-29",
+      "group": "sdf",
+      "specialisation": "zf",
+      "id": 1
+    },
+    {
+      "name": "фы",
+      "surname": "фы",
+      "patronymic": "вфasdasdasd",
+      "telephone": "89001193024",
+      "email": "tselunov.p@gmail.com",
+      "dateOfBirth": "2021-10-26",
+      "group": "ыфвф",
+      "specialisation": "САПР\\эж\\жэ\\жэ",
+      "id": 2
+    },
+    {
+      "name": "asd",
+      "surname": "asd",
+      "patronymic": "asd",
+      "telephone": "89001193024",
+      "email": "tselunov.p@gmail.com",
+      "dateOfBirth": "2021-10-15",
+      "group": "das",
+      "specialisation": "dasd",
+      "id": 3
+    },
+    {
+      "name": "sdasd",
+      "surname": "asda",
+      "patronymic": "as",
+      "telephone": "89001193024",
+      "email": "goodkovvofka@mail.ru",
+      "dateOfBirth": "2021-10-16",
+      "group": "asd",
+      "specialisation": "sad",
+      "id": 4
+    },
+    {
+      "name": "PAvel",
+      "surname": "Tselunov",
+      "patronymic": "VLADIMIROVICH",
+      "telephone": "89001193024",
+      "email": "tselunov.p@gmail.com",
+      "dateOfBirth": "2021-10-23",
+      "group": "191-325",
+      "specialisation": "САПР",
+      "id": 5
+    },
+    {
+      "name": "asd",
+      "surname": "asdas",
+      "patronymic": "dasd",
+      "telephone": "89001193024",
+      "email": "goodkovvofka@mail.ru",
+      "dateOfBirth": "2021-10-03",
+      "group": "aaaaaa",
+      "specialisation": "САПР",
+      "id": 6
+    },
+    {
+      "name": "x",
+      "surname": "x",
+      "patronymic": "asasd",
+      "telephone": "89001193024",
+      "email": "tselunov.p@gmail.com",
+      "dateOfBirth": "2021-10-16",
+      "group": "zxc",
+      "specialisation": "zxc",
+      "id": 7
+    },
+    {
+      "name": "фывфыв",
+      "surname": "фыв",
+      "patronymic": "фыв",
+      "telephone": "89001193024",
+      "email": "tselunov.p@gmail.com",
+      "dateOfBirth": "2021-10-09",
+      "group": "sdf",
+      "specialisation": "САПР",
+      "id": 8
+    }
+  ]
+}
